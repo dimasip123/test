@@ -50,7 +50,7 @@ function task(i) {
 	first = false;
 	}
 	else{
-		bot.chat("Diperbarui oleh vanevgt")
+		bot.chat("Diperbarui oleh DimsCH")
 		first = true;
 	}
   }, 3600000 * i); 
