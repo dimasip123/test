@@ -1,7 +1,7 @@
 {
-	"ip":"ArkSMPorg.aternos.me",
-	"port": "37301",
+	"ip":"play.cans.hbmc.net",
+	"port": "19121",
 	"name": "dims BOTz",
 	"auto-night-skip":"false",
-	"login-enabled":"false",
+	"login-enabled":"true",
 }
